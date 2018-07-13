@@ -5,3 +5,4 @@
 
 ## Contents
 - [node npm](npm)
+- [python conda](conda)
