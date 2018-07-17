@@ -7,4 +7,5 @@
 - [node npm](npm)
 - [python conda](conda)
 - [haskell stack](stack)
+- [python pip](pip)
 
