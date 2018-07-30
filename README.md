@@ -8,4 +8,5 @@
 - [python conda](conda)
 - [haskell stack](stack)
 - [python pip](pip)
+- [maven](maven)
 
