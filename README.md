@@ -9,4 +9,5 @@
 - [haskell stack](stack)
 - [python pip](pip)
 - [maven](maven)
+- [brew](brew)
 
