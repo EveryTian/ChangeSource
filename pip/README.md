@@ -12,7 +12,9 @@
 
   ```
   [global]
-  index-url = http://mirrors.aliyun.com/pypi/simple
+  index-url = http://mirrors.aliyun.com/pypi/simple/
+  [install]
+  trusted-host=mirrors.aliyun.com
   ```
 
   - Windows下文件位置：`C:\Users\XXX\pip\pip.conf`
