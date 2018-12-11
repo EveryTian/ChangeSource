@@ -10,4 +10,4 @@
 - [python pip](pip)
 - [maven](maven)
 - [brew](brew)
-
+- [ruby gem](gem)
