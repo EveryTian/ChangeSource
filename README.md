@@ -11,3 +11,5 @@
 - [maven](maven)
 - [brew](brew)
 - [ruby gem](gem)
+- [arch](arch)
+
