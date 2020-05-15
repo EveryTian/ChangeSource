@@ -1,5 +1,9 @@
 # Stack换源
 
+请直接参考：https://mirrors.tuna.tsinghua.edu.cn/help/stackage/
+
+以下内容可能过时：
+
 - 使用`config.yaml`文件进行配置。
 
   文件位置如下：
