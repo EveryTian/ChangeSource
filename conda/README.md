@@ -1,4 +1,4 @@
-# Conda换源
+# conda 换源
 
 - 使用以下三条指令
 
@@ -8,7 +8,7 @@
   conda config --set show_channel_urls yes
   ```
 
-- 通过`conda info`进行状态的查看
+- 通过 `conda info` 进行状态的查看
 
   以本人结果为例：
 
@@ -102,7 +102,7 @@
     - defaults
   ```
 
-- Conda三方源
+- Conda 三方源
 
   - Conda Forge
 

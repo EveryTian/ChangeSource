@@ -1,4 +1,4 @@
-# gem换源
+# gem 换源
 
 使用 [Ruby-China](https://gems.ruby-china.com/) 镜像：
 

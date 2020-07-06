@@ -12,4 +12,5 @@
 - [brew](brew)
 - [ruby gem](gem)
 - [arch](arch)
+- [haskell cabal](cabal)
 

@@ -1,4 +1,4 @@
-# npm换源
+# npm 换源
 
 - 临时使用
 
@@ -20,7 +20,7 @@
     $ npm install -g cnpm --registry=https://registry.npm.taobao.org
     ```
 
-  - 通过alias
+  - 通过 alias
 
     ```
     alias cnpm="npm --registry=https://registry.npm.taobao.org \
@@ -31,7 +31,7 @@
 
 - More
 
-  - 查看npm源地址
+  - 查看 npm 源地址
 
     ```shell
     $ npm config get registry
